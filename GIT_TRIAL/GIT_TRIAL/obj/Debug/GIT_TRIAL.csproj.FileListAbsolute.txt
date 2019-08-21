@@ -1,0 +1,6 @@
+D:\folder-1\123\Task_repos\GIT_TRIAL\GIT_TRIAL\bin\GIT_TRIAL.dll.config
+D:\folder-1\123\Task_repos\GIT_TRIAL\GIT_TRIAL\bin\GIT_TRIAL.dll
+D:\folder-1\123\Task_repos\GIT_TRIAL\GIT_TRIAL\bin\GIT_TRIAL.pdb
+D:\folder-1\123\Task_repos\GIT_TRIAL\GIT_TRIAL\obj\Debug\GIT_TRIAL.csprojResolveAssemblyReference.cache
+D:\folder-1\123\Task_repos\GIT_TRIAL\GIT_TRIAL\obj\Debug\GIT_TRIAL.dll
+D:\folder-1\123\Task_repos\GIT_TRIAL\GIT_TRIAL\obj\Debug\GIT_TRIAL.pdb
